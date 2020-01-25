@@ -5,7 +5,9 @@ Demonstrating the 'TFT_eSPI' and 'TFTShape' libraries.
 
 Based on the demo clock in https://github.com/androdlang/TFTShape
 
-Which is based on https://github.com/Bodmer/TFT_eSPI
+Which is an extention of https://github.com/Bodmer/TFT_eSPI
+
+Both these libraries should be installed in the ESP32 libaries folder.
 
 ![clock](https://github.com/androdlang/TFTShape/raw/master/images/screenshot_4571.png)
 
