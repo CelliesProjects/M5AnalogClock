@@ -1,7 +1,7 @@
 # M5AnalogClock
-An analog clock for the M5Stack Fire board. Demonstrating the 'TFT_eSPI' and 'TFTShape' libraries.
+An analog clock for M5Stack Core and M5Stack Fire board.
 
-For now this only works on M5Stack Fire boards.
+Demonstrating the 'TFT_eSPI' and 'TFTShape' libraries.
 
 Based on the demo clock in https://github.com/androdlang/TFTShape
 
