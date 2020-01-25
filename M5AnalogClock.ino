@@ -52,6 +52,7 @@ void setup() {
   tft.fillScreen( TFT_BLUE );
   tft.setTextDatum( TC_DATUM ); // Centre text on x,y position
 
+  clockSprite.setColorDepth( 8 );
   clockSprite.createSprite( 240, 320 );
   clockSprite.setTextDatum( TC_DATUM ); // Centre text on x,y position
 
